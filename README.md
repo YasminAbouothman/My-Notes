@@ -1,4 +1,4 @@
-### **Welcome**
+# **Welcome**
 
 This repository is **my personal collection** of study notes, lab notes, and practical experiences from my journey .
 
